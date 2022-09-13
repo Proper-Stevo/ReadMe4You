@@ -26,10 +26,7 @@ ${data.usage}
 ## Credits 
 ${data.credits}
 
-## License
-${data.license}
-
-## Badges
+## Badges & License
 These badges are by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-${data.badges}-blue.svg)](https://opensource.org/licenses/${data.badges})
 
 ## Features 
@@ -42,7 +39,7 @@ ${data.contribute}
 ${data.test}
 
 ## Questions
-${data.questions}
+Find me on Github: (https://github.com/${data.questions}).
 
 ## Email
 If you have any other questions feel free to email me at: ${data.email} Thank you.
@@ -82,12 +79,6 @@ inquirer
             name: "credit",
         },
         {
-            type: "list",
-            message: "What license would like?", // change this one!
-            name: "license",
-            choices: ["MIT", "Boost_1.0"],
-        },
-        {
             type: "input",
             message: "do you have features?",
             name: "features",
@@ -104,7 +95,7 @@ inquirer
         },
         {
             type: "input",
-            message: "do you want a question section?",
+            message: "What is your github?",
             name: "questions",
         },
         {
