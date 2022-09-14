@@ -1,9 +1,9 @@
-# Portfolio
+# Walkthrough for ReadMe
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This was my first portfolio. 
+Using Node Js I was able to create a series of questions and bascally create a promp questionaire to create a README file. Using Inquierer is definetely something to get use to and great practice. Calling functions and varaibles through other folders using export and require is something new to me and I enjoyed learning this. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,25 +13,24 @@ This was my first portfolio.
 - [Questions](#questions)
 
 ## Installation 
-I installed many applications that youre able to see on the display. 
+Some of the NPM packages we had to install were inquiere and the just motify the questions in JS to say what it would promp. Aside from the Inquiere packakge we also included git-ignore.
 
 ## Usage 
-
+The prupose of using this promp is to simply create a read me on the go and not use template every time. This way you just write what everything is and the node js creates it for you.
 
 ## Credits 
-undefined
+Thank you to the tutors i've had the last two weeks. Staying after class to ask questions and using all the office hours I can use. 
 
 ## Badges & License
 These badges are by [shields.io](https://shields.io/). [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Features 
-this uses 2 api's.
+
 
 ## How to contribute
-Tutors, Classmate, Teachers. 
+Alot of class groups were used in this one and going back and fourth with people helped out alot. 
 
 ## Test 
-Yes
+
 
 ## Questions
 Find me on Github: (https://github.com/Proper-Stevo).
