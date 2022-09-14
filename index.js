@@ -54,7 +54,7 @@ inquirer
         },
         {
             type: "input",
-            message: "Do you have a description?",
+            message: "Please describe your application:",
             name: "description",
         },
         {
@@ -65,27 +65,27 @@ inquirer
         },
         {
             type: "input",
-            message: "do you have a installation?",
+            message: "Please describe the isntallation:",
             name: "installation",
         },
         {
             type: "input",
-            message: "do you have a usage?",
+            message: "Please describe the usage of the of the application:",
             name: "usage",
         },
         {
             type: "input",
-            message: "do you have credits?",
+            message: "Would you like to credit anyone?",
             name: "credit",
         },
         {
             type: "input",
-            message: "do you have features?",
+            message: "What are the features?",
             name: "features",
         },
         {
             type: "input",
-            message: "do you have any contributors?",
+            message: "Any contibrutors to add?",
             name: "contribute",
         },
         {
